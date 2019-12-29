@@ -1,0 +1,2 @@
+module bigdecimal {
+}
