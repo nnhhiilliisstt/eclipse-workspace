@@ -26,7 +26,7 @@ public class deleteduplicate {
 		{
 			if(ar[k]!=null)
 			{
-				System.out.print(ar[k]+" ");
+				System.out.print(ar[k]+" "     );
 			}
          }
          System.out.println();  
